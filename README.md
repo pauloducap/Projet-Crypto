@@ -1,6 +1,11 @@
 # Projet-Crypto
-Notre groupe est composé de Abeille Paul-Antoine,Fallous Lucas et Mareschal Guillaume.
-Notre idée de projet est simple , réaliser une compilation de "petits" programmes qui auront tous une fonction , 
-par exemple un programme qui configure et installe automatiquement les logiciels servant à miner des cryptomonnaies et 
-un autre permettant d'acheter automatiquement et régulièrement du dollar.
-Nous avons d'autres petits projets en tête qui arriverront très prochainement.
+**Projet du labo crypto & Blockchain, compilation de petits scripts**
+# En quoi consiste notre projet ?
+Le but de notre projet est de proposer une compilations de petits scripts en rapport avec la cryptomonnaie, pour donner une idée ces scripts peuvent aller d'installer des mineurs de cryptomonnaies au bot qui achète à intervalle régulier du dollar afin d'obtenir statistiques/
+# Liste des scripts proposés:
+- mineur
+- bot
+# Qui constitue le groupe ?
+- Abeille Paul-Antoine
+- Fallous Lucas
+- Mareschal Guillaume
