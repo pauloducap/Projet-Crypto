@@ -5,6 +5,7 @@ Le but de notre projet est de proposer une compilations de petits scripts en rap
 # Liste des scripts proposés:
 - mineur
 - bot (discord)
+- monitoring et alertes ?
 # Qui constitue le groupe ?
 - Abeille Paul-Antoine
 - Fallous Lucas
