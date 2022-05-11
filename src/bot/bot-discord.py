@@ -72,11 +72,11 @@ def actuAssets():
 @client.event
 async def on_ready():
     print("le bot '{0.user}' est prêt.".format(client))
+    assetRequest.start()
 
 # on raffraichit la liste des assets toutes les 15 minutes (je peux pas faire moins à cause de la clé de l'api gratuite qui me limite à 100 requetes/jour)
 @tasks.loop(minutes=15)
-async def AssetsRequest():
-    print("test")
+async def assetRequest():
     url = 'https://rest.coinapi.io/v1/assets'
     headers = {'X-CoinAPI-Key' : apiKey}
     response = requests.get(url, headers=headers)
